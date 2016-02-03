@@ -2,7 +2,7 @@
 
 var greeting = "Hello ";
 var name = "Rachel";
-var message = " , please check your order:";
+var message = ", please check your order:";
 
 // Concatenate the three variables above to create the welcome message.
 
